@@ -1,3 +1,11 @@
+# Task-App
+Task manager webpage, made with React.js
+
+# Task-App 
+Página web para administrador de tareas, hecha con React.js
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
