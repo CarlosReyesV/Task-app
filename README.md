@@ -1,8 +1,18 @@
 # Task-App
-Task manager webpage, made with React.js
+Simple to do manager webpage, made with React.js
+
+You can:
+- Add todo
+- Delete todo
+- Search todo
 
 # Task-App 
-Página web para administrador de tareas, hecha con React.js
+Página web simple para administrar tareas, hecha con React.js
+
+Puedes:
+- Agregar tareas
+- Eliminar tareas
+- Buscar tareas
 
 ---
 
